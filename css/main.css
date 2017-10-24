@@ -1,0 +1,52 @@
+body{
+  display: block;
+  width: 1000px;
+}
+header{
+  left: 30px;
+  position: relative;
+}
+h1{
+  font-family: 'PT Mono', monospace;
+  margin-bottom: 2px;
+}
+.line{
+  outline: 2px solid black;
+  width: 100px;
+}
+main div{
+  display: inline-block;
+  height: 300px;
+  margin: 20px;
+  position: relative;
+  width: 250px;
+}
+.box-1{
+  background-image: url(http://laboratoria.la/images/coders/135/milagros__large.jpg);
+}
+.box-2{
+  background-image: url(http://laboratoria.la/images/coders/185/marisol-luna__large.jpg);
+}
+.box-3{
+  background-image: url(http://laboratoria.la/images/coders/161/marisol-carrillo__large.jpg);
+}
+.box-4{
+  background-image: url(http://laboratoria.la/images/coders/188/mirella-acero__large.jpg);
+}
+.box-5{
+  background-image: url(http://laboratoria.la/images/coders/264/raquel-mozo__large.jpg);
+}
+.box-6{
+  background-image: url(http://laboratoria.la/images/coders/123/winnie__large.jpg);
+}
+p{
+  color: white;
+  display: inline;
+  font-family: 'PT Mono', monospace;
+  font-size: 15px;
+  font-weight: bold;
+  left: 100px;
+  position: absolute;
+  top: 260px;
+  width: 150px;
+}
